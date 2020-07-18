@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f51184e-a7de-424f-a313-ea689a190708" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ekbR5U79sPgvLpT9ZPhLoCCcKP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\ThreadDemo\src\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadNew">
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="senior.TestLock" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="senior.TestPC" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="senior.TestPC2" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="senior.TestPool" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="senior.ThreadNew" />
+      <module name="ThreadDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadNew" />
+        <item itemvalue="Application.TestPool" />
+        <item itemvalue="Application.TestPC2" />
+        <item itemvalue="Application.TestPC" />
+        <item itemvalue="Application.TestLock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f51184e-a7de-424f-a313-ea689a190708" name="Default Changelist" comment="" />
+      <created>1594868526526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594868526526</updated>
+      <workItem from="1594868530429" duration="4601000" />
+      <workItem from="1594883127905" duration="4777000" />
+      <workItem from="1594894308724" duration="467000" />
+      <workItem from="1594949764954" duration="7870000" />
+      <workItem from="1594972197108" duration="8611000" />
+      <workItem from="1595039108559" duration="7794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="457" key="#com.intellij.ide.util.MemberChooser" timestamp="1595046526975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="192" y="457" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595046526975" />
+    <state x="869" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594885841596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594885841595" />
+    <state x="300" y="375" key="FileChooserDialogImpl" timestamp="1594870369872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="375" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594870369872" />
+    <state width="1577" height="245" key="GridCell.Tab.0.bottom" timestamp="1595047040980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1577" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595047040980" />
+    <state width="1577" height="245" key="GridCell.Tab.0.center" timestamp="1595047040980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1577" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595047040980" />
+    <state width="1577" height="245" key="GridCell.Tab.0.left" timestamp="1595047040980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1577" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595047040980" />
+    <state width="1577" height="245" key="GridCell.Tab.0.right" timestamp="1595047040980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1577" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595047040980" />
+    <state width="1262" height="276" key="GridCell.Tab.1.bottom" timestamp="1594981405918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594981405918" />
+    <state width="1262" height="276" key="GridCell.Tab.1.center" timestamp="1594981405918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="276" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594981405918" />
+    <state width="1262" height="276" key="GridCell.Tab.1.left" timestamp="1594981405918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="276" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594981405918" />
+    <state width="1262" height="276" key="GridCell.Tab.1.right" timestamp="1594981405918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="276" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594981405918" />
+    <state x="0" y="195" key="SettingsEditor" timestamp="1594870371049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594870371049" />
+    <state x="1076" y="265" key="run.anything.popup" timestamp="1594978849454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1076" y="265" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594978849454" />
+    <state x="1083" y="316" width="672" height="678" key="search.everywhere.popup" timestamp="1595041654825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1083" y="316" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595041654825" />
+  </component>
+</project>
